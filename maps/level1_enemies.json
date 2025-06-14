@@ -1,0 +1,30 @@
+{
+  "enemies": [
+    {
+      "name": "Crab",
+      "start_pos": [2, 3],
+      "final_pos": [11, 10],
+      "start_direction": "right"
+    },
+    {
+      "name": "Crab",
+      "start_pos": [9, 10],
+      "final_pos": [11, 10],
+      "start_direction": "right"
+    },
+    {
+      "name":"Crab",
+      "start_pos":[17,10],
+      "final_pos":[29,10],
+      "start_direction": "right"
+    },
+    {
+      "name":"Crab",
+      "start_pos":[20,10],
+      "final_pos":[29,10],
+      "start_direction": "left"
+    }
+  ]
+
+
+}
